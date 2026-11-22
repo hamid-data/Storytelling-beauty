@@ -43,9 +43,9 @@ In short: how the story is told mattered less than whether the brand feels authe
 ```
 ├── README.md
 ├── report/
-│   └── Storytelling_Beauty_Brands_Report.docx   # full write-up (introduction to conclusion)
+│   └── Storytelling beauty.docx   # full write-up (introduction to conclusion)
 └── results/
-    └── SPSS_Results_Summary.pdf                 # the final tables from SPSS, nothing else
+    └── Storytelling beauty.pdf                 # the final tables from SPSS, nothing else
 ```
 
 The results PDF contains only the tables behind the report: manipulation check, sample, descriptives, t-tests, correlations and the three regression models.
@@ -81,6 +81,6 @@ IBM SPSS Statistics for the analysis, and Microsoft Word for the report.
 
 ## Contact
 
-Research | Statistical Analysis | SPSS | Data Analytics
-GitHub: https://github.com/hamid-data
-For research, statistical analysis, and collaboration inquiries, feel free to connect through GitHub.
+- Research | Statistical Analysis | SPSS | Data Analytics
+- GitHub: https://github.com/hamid-data
+- For research, statistical analysis, and collaboration inquiries, feel free to connect through GitHub.
